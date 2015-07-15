@@ -1,59 +1,59 @@
 #To Do List
 
+##Steps to learning
+
 - [x]Buy a Mac
 
 - [x]Start an account at Meetup.com
 
 - [x]Start a blog
 
-- [x]Set up a Twitter account
+- [x]Twitter account
 
-- [x]Start a Gmail account
+- [x]Gmail account
 
-- [ ]Start a Google+ account
+- [ ]Google+ account
 
-- [x]Set up a LinkedIn account
+- [x]LinkedIn account
 
-- [ ]Go though the Command Line course by Zed Shaw
+- [ ]Command Line course by Zed Shaw
 
-- [ ]Start setting up you dev environment
+- [ ]dev environment
 
-- [ ]Download Homebrew with develop tools
+  - [x]Homebrew
 
-- [ ]Brew install RVM
+  - [ ]Brew install RVM
 
-- [ ]Install a Ruby version 2 or newer
+  - [ ]Install Ruby
 
-- [ ]Make a Ruby gem set with your chosen version of Ruby (see text)
+  - [ ]Learn about Gems (see text)
 
-- [ ]Install Rails 4.2.1
+  - [ ]Install Rails 4.2.1
 
-- [ ]Download Sublime Text 3 (settings in text)
+  - [ ]Get a decent text editor
 
-- [x]Start a free account on Github
+- [x]Start Github
 
-- [x]Learn how to generate your SSH keys for Github
+- [x]SSH keys for Github
 
-- [ ]Go through the first 16 labs of Git immersion
+- [ ]Git immersion
 
-- [ ]Learn HTML and CSS basics (link in text)
+- [ ]HTML and CSS basics (link in text)
 
 - [ ]Go through Chris Pines Learn To Program book
 
-- [ ]Take Mattan Griffels course One Month Rails
+- [ ]One Month Rails
 
-- [ ]Go through Zed Shaws Learn Ruby The Hard Way
+- [ ]Learn Ruby The Hard Way
 
-- [ ]Go through Free Code Camps first 30 Bonfire challenges
+- [ ]Free Code Camps first 30 Bonfire challenges
 
-- [ ]Complete Hartls Rails Tutorial
+- [ ]Hartls Rails Tutorial
 
-- [ ]Learn how to use Firebug or Chrome Developer Tools
+- [ ]Chrome Developer Tools
 
-- [ ]Time for “real world” experience/freelancing
+- [ ]experience/freelancing
 
-- [ ]Give your first talk at a local meetup group
+- [ ]first talk at a local meetup group
 
-- [ ]Give another talk at a local meetup group
-
-- [ ]Start the Hire ME campaign/website
+- [ ]another talk at a local meetup group
