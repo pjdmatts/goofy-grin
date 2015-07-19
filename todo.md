@@ -18,7 +18,7 @@
 
 - [x]Command Line course by Zed Shaw
 
-- [ ]dev environment
+- [x]dev environment
 
   - [x]Homebrew
 
@@ -26,7 +26,7 @@
 
   - [x]Install Ruby
 
-  - [ ]Learn about Gems (see text)
+  - [x]Learn about Gems (see text)
 
   - [x]Install Rails 4.2.1
 
