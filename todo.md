@@ -22,13 +22,13 @@
 
   - [x]Homebrew
 
-  - [ ]Brew install RVM
+  - [x]Brew install RVM
 
-  - [ ]Install Ruby
+  - [x]Install Ruby
 
   - [ ]Learn about Gems (see text)
 
-  - [ ]Install Rails 4.2.1
+  - [x]Install Rails 4.2.1
 
   - [x]Get a decent text editor
 
