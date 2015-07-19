@@ -12,11 +12,11 @@
 
 - [x]Gmail account
 
-- [ ]Google+ account
+- [x]Google+ account
 
 - [x]LinkedIn account
 
-- [ ]Command Line course by Zed Shaw
+- [x]Command Line course by Zed Shaw
 
 - [ ]dev environment
 
@@ -30,7 +30,7 @@
 
   - [ ]Install Rails 4.2.1
 
-  - [ ]Get a decent text editor
+  - [x]Get a decent text editor
 
 - [x]Start Github
 
